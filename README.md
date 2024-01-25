@@ -12,3 +12,8 @@
 4) Virtual DOM (It will take the Replica of the actual DOM and will not update complete)
 5) For example if we are doing something (Virutal dom take the snap of the actual DOM and after the event it will compare with the DOM what are the changes and the update this only in DOM)
 
+
+### Hooks !
+
+1) useState() 
+2) useEffect()
